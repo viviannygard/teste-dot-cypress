@@ -2,13 +2,9 @@
 
 Seja bem-vindo(a)!
 
-#3 Sobre a aplicação
-
-A aplicação se chama Central de Atendimento ao Cliente TAT (https://cac-tat.s3.eu-central-1.amazonaws.com/index.html) e foi desenvolvida usando HTML, CSS e JavaScript.
-
-## Funcionalidade
-
+## Sobre a aplicação
 A aplicação CAC TAT é um formulário para simular o envio de mensagens à uma central de atendimento ao cliente.
+(https://cac-tat.s3.eu-central-1.amazonaws.com/index.html) e foi desenvolvida usando HTML, CSS e JavaScript.
 
 ### História de Usuário
 Sendo cliente do sistema CAC TAT
