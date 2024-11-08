@@ -1,0 +1,21 @@
+{
+  "name": "cypress-basico-vbn",
+  "version": "1.0.0",
+  "description": "Repositório do teste tecnico Cypress",
+  "main": "src/index.html",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viviannygard/cypress-basico-vbn"
+  },
+  
+  "author": "Vivian",
+  "license": "MIT",
+  "homepage": "https://github.com/viviannygard/cypress-basico-vbn",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
+}
