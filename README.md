@@ -1,15 +1,16 @@
-# Testes automatizados com Cypress
+## Testes automatizados com Cypress
 
 Seja bem-vindo(a)!
 
-# Sobre a aplicação
+#3 Sobre a aplicação
 
 A aplicação se chama Central de Atendimento ao Cliente TAT (https://cac-tat.s3.eu-central-1.amazonaws.com/index.html) e foi desenvolvida usando HTML, CSS e JavaScript.
 
-## Funcionalidades da aplicação
+## Funcionalidade
 
 A aplicação CAC TAT é um formulário para simular o envio de mensagens à uma central de atendimento ao cliente.
 
+### História de Usuário
 Sendo cliente do sistema CAC TAT
 Quero enviar uma mensagem através do formulário da central de atendimento ao cliente
 Para que seja registrado meu atendimento nessa central
